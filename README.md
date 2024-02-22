@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I enjoy solving algorithmic challenges and enhancing problem-solving skills<br>📚 I'm currently learning Full-Stack web development<br>🎯Goal: To become a proficient and impactful software developer</p>
+<p align="left">✨ I enjoy solving algorithmic challenges and enhancing problem-solving skills<br>📚 I'm currently learning Full-Stack web development<br>🎯 Goal: To become a proficient and impactful software developer</p>
 
 ###
 
